@@ -1,4 +1,3 @@
-// Bianca Pereira da Silva - RM: 571077; Maria Eduarda Cavallari Quarelo - RM: 570462
 package br.com.fiap.bean;
 
 import java.time.LocalDate;
